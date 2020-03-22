@@ -1,8 +1,8 @@
 name: crypt
-description: Handle Crypto realted parts of the application on platform specifics.
+description: Handle Crypto related parts of the application on platform specifics.
 version: 0.0.1
-author:
-homepage:
+#author:
+#homepage:
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
